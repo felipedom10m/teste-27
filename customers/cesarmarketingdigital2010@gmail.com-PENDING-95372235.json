@@ -1,0 +1,15 @@
+{
+  "email": "cesarmarketingdigital2010@gmail.com",
+  "nome": "Washington Sousa",
+  "cpf": "027.462.948-85",
+  "selectedUpsells": [
+    1,
+    2
+  ],
+  "transactionId": 95372235,
+  "timestamp": "2025-08-26T12:07:54.750Z",
+  "productInfo": {
+    "name": "teste-27",
+    "repositoryUrl": "https://github.com/felipedom10m/teste-27"
+  }
+}
